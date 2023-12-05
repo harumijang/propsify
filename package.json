@@ -1,0 +1,11 @@
+{
+  "name": "@drupal-jsx/propsify",
+  "type": "module",
+  "dependencies": {
+    "@drupal-jsx/hyperscriptify": "github:drupal-jsx/hyperscriptify",
+    "just-camel-case": "^6",
+    "just-map-keys": "^2",
+    "just-map-values": "^3",
+    "just-safe-set": "^4"
+  }
+}
