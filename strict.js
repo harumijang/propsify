@@ -1,4 +1,4 @@
-import { propsifyFactory as factory } from '@drupal-jsx/hyperscriptify';
+import { propsifyFactory as factory } from 'https://esm.sh/gh/drupal-jsx/hyperscriptify';
 import camelCase from 'just-camel-case';
 import mapKeys from 'just-map-keys';
 import mapValues from 'just-map-values';
